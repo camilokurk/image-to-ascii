@@ -1,0 +1,7 @@
+[project]
+name = "image-to-ascii"
+version = "0.1.0"
+requires-python = ">=3.15"
+dependencies = [
+    "pillow>=12.3.0",
+]
